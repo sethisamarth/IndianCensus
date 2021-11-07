@@ -1,0 +1,10 @@
+C:\Users\md048\source\repos\ReflectionMoodProject\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\ReflectionMoodProject\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\ReflectionMoodProject\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\ReflectionMoodProject\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.AssemblyInfo.cs
+C:\Users\md048\source\repos\ReflectionMoodProject\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.AssemblyInfo.cs
+C:\Users\md048\source\repos\IndianCensusAnalyser\obj\Debug\netcoreapp3.1\IndianCensusAnalyser.csproj.CoreCompileInputs.cache
